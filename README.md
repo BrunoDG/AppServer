@@ -11,7 +11,7 @@ Estudos de trabalho. Estou precisando aprender essas técnicas e quero entender 
 ## TO-DO
 
 - [x] Return list with several names
-
 - [ ] Return list with details for one person.
-  - [ ] Create new Action for the back-end 
+  - [ ] Criar outro `@GetMapping` para retornar somente o ID (`cpf`) da pessoa 
+  - [ ] Criar nova `Action` no controller (chamaremos de  `DetailsAction`)
 
